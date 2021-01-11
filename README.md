@@ -7,10 +7,10 @@
 <br>
 <br>
 
-<span align="center">
-<img alt="github_explorer_repositories" width="450" src="./.github/github_explorer_repositories.png"/>
-  <img alt="github_explorer_issues" width="450" src="./.github/github_explorer_issues.png"/>
-</span>
+<div align="center">
+<img alt="github_explorer_repositories" width="400" src="./.github/github_explorer_repositories.png"/>
+  <img alt="github_explorer_issues" width="400" src="./.github/github_explorer_issues.png"/>
+</div>
 
 <br>
 <br>
@@ -25,7 +25,6 @@ This project was developed with the following technologies:
 - ✔️ Styled Components
 - ✔️ Axios
 
-<br>
 <br>
 
 ## Installation
@@ -42,7 +41,6 @@ $ yarn
 ```bash
 $ yarn start
 ```
-<br>
 <br>
 
 ### Instagram: [@tenoriogah](https://www.instagram.com/tenoriogah)
